@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\SlidingSelfie\app\libs\dolby_audio_processing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb8d9667b5fe3a90274634305861ef29e90524de">
+        <dex dex="G:\SlidingSelfie\app\build\intermediates\pre-dexed\debug\dolby_audio_processing-224fae995916bffcf09baae46b90b80cbe4bd5c0.jar" />
+    </item>
+
+</items>
